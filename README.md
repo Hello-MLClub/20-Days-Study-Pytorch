@@ -1,13 +1,3 @@
-# How to eat Pytorch in 20 days ?🔥🔥
-
-
-🔥🔥 B站讲解：https://www.bilibili.com/video/BV1Ua411P7oe
-
-🐳🐳 和鲸专栏：https://www.heywhale.com/home/column/5f2ac5d8af3980002cb1bc08
-
-🌺🌺 公众号：https://mp.weixin.qq.com/s/0YdveETOZkq2SFtDkIANEg 
-
-
 ### 一，本书📖面向读者 👼
 
 
@@ -30,21 +20,6 @@
 * 4，机器学习基础
 
 
-<!-- #region -->
-
-
-
-
-🔥🔥**号外号外，《20天吃掉那只Pytorch》视频版本登录BiliBili啦，吃货本货倾情掌勺，只为最纯正的乡土味道，欢迎新老朋友前来品尝** 🍉🍉！
-
-https://www.bilibili.com/video/BV1Ua411P7oe
-    
-
-
-
-
-<!-- #endregion -->
-
 ### 二，本书写作风格 🍉
 
 
@@ -66,9 +41,7 @@ https://www.bilibili.com/video/BV1Ua411P7oe
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h536b2yro2j20k00b9myd.jpg)
 
-```python
 
-```
 
 ### 三，本书学习方案 ⏰
 
