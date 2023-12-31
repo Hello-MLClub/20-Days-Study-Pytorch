@@ -84,7 +84,6 @@
 |day18|  [6-1,构建模型的3种方法](./6-1,构建模型的3种方法.ipynb)   | ⭐️⭐️    |   0.5hour    |✅   |
 |day19|  [6-2,训练模型的3种方法](./6-2,训练模型的3种方法.ipynb)  | ⭐️⭐️⭐️   |   1hour    | ✅  |
 |day20|  [6-3,使用GPU训练模型](./6-3,使用GPU训练模型.ipynb)    | ⭐️⭐️⭐️⭐️ |   1hour    | ✅  |
-| * |  [后记：我的产品观](https://mp.weixin.qq.com/s/WXUJ0D2iAIWASlkpv60FLA)    | ⭐️   |   0hour    | ✅  |
 
 ```python
 
@@ -100,12 +99,9 @@ step1: 克隆本书源码到本地,使用码云镜像仓库国内下载速度更
 git clone https://gitee.com/Python_Ai_Road/eat_pytorch_in_20_days
 ```
 
-step2: 公众号 **算法美食屋** 回复关键词：**pytorch**， 获取本项目所用数据集汇总压缩包 eat_pytorch_datasets.zip百度云盘下载链接，下载解压并移动到eat_pytorch_in_20_days路径下，约160M。
+step2: 公众号 **Python学习与数据挖掘** 回复关键词：**pytorch**， 获取本项目所用数据集汇总压缩包 eat_pytorch_datasets.zip百度云盘下载链接，下载解压并移动到eat_pytorch_in_20_days路径下，约160M。
 
 
-救命方案：如果环境配置遇到了困难，也可以在和鲸社区fork项目后直接运行。
-
-和鲸《20天吃掉pytorch》专栏地址：https://www.heywhale.com/home/column/5f2ac5d8af3980002cb1bc08
 
 
 
